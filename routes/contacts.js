@@ -10,6 +10,7 @@ const Contact = require('../models/Contact');
 // @desc    Get all users contacts
 // @access  Private
 router.get('/', auth, async (req, res) => {
+    console.log(req);
     try {
         const contacts = await Contact.find({ user: req.user.id }).sort({
             date: -1
