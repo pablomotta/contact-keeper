@@ -19,7 +19,7 @@ On this app users can:
 
 ## Installation
 
--   `Create account with MongoDb Atlas and create your cluster to connect this application with.`
+-   `Create account with MongoDb Atlas by clicking link above in the 'Prerequisites section' and create your cluster to connect this application with.`
 -   `Once created, from the root folder, click into 'config' folder`
 -   `Once in the config folder, open the 'default.json' and 'production.json' files and update the mongoURI code with your own code.`
 
