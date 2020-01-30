@@ -27,7 +27,7 @@ After above steps are completed, on your command line, run the following command
 
 -   `Git clone git@github.com:pablomotta/burger-CRUD-APP.git`
 
--   `npm install`
+-   `npm install-all`
 
 -   `npm start`
 
