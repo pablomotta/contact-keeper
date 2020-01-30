@@ -30,3 +30,7 @@ After above steps are completed, on your command line, run the following command
 -   `npm install`
 
 -   `npm start`
+
+## Author
+
+-   **Pablo Motta** - [github profile](https://github.com/pablomotta)
